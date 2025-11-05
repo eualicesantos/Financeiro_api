@@ -1,9 +1,9 @@
-# API Financeiro (Versão Sem Banco)
+# API Financeiro
 
 API REST simples em Node.js e Express, simulando um sistema financeiro pessoal.
 Nesta versão, os dados são armazenados em **arrays na memória**, sem necessidade de banco de dados.
 
-## 🚀 Como rodar
+## Como rodar
 
 1. Instale as dependências:
    ```bash
@@ -38,5 +38,5 @@ Nesta versão, os dados são armazenados em **arrays na memória**, sem necessid
 - `PUT /transacoes/:id` → atualiza transação
 - `DELETE /transacoes/:id` → remove transação
 
-## 💡 Observação
+## Observação
 Os dados não são salvos permanentemente — se reiniciar o servidor, tudo é limpo.
