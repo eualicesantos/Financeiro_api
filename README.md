@@ -1,7 +1,6 @@
 # API Financeiro
 
-API REST simples em Node.js e Express, simulando um sistema financeiro pessoal.
-Nesta versão, os dados são armazenados em **arrays na memória**, sem necessidade de banco de dados.
+API Financeiro pessoal desenvolvida em Node.js e Express, com estrutura MVC e dados em memória.
 
 ## Como rodar
 
